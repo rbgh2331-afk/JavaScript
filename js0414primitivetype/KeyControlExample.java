@@ -27,5 +27,6 @@ public class KeyControlExample {
                 run = false;
             }
         }
+        scanner.close();
     }
 }

@@ -42,6 +42,7 @@ public class test {
         if(data.equals("q")) {
             break;
         }
+        scanner.close();
     }
 	    System.out.println("종료");
 	}

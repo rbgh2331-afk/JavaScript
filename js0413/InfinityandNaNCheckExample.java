@@ -1,7 +1,5 @@
 package js0413;
 
-import javax.sound.midi.SysexMessage;
-
 public class InfinityandNaNCheckExample {
     public static void main(String[] args) {
         int x = 5;
