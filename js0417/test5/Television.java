@@ -25,4 +25,10 @@ public class Television implements RemoteControl {
         }
         System.out.println("현재 TV 볼륨: " + volume);
     }
+
+    @Override
+    public void TurnOff() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'TurnOff'");
+    }
 }

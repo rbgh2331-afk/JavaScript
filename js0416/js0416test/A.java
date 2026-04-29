@@ -3,7 +3,7 @@ package js0416.js0416test;
 public class A {
     // 필드
     public int field1;
-    int field2;
+    public int field2;
     private int field3;
 
     //생성자

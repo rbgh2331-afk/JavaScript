@@ -1,7 +1,5 @@
 package js0417.test7;
 
-import javax.management.ValueExp;
-
 public class Bus implements Vehicle {
     @Override
     public void run() {
